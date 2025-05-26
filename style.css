@@ -1,0 +1,97 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+body{
+    font-family: arial;
+    line-height: 1.5;
+    height:1000px;
+}
+img{
+    width:80px;
+    height:82px;
+    cursor: pointer;
+
+    
+}
+.nav-links{
+    display: flex;
+    list-style: none;
+    gap:130px;
+    
+}
+.nav-links a{
+    color:white;
+    font-weight: 500px;
+    text-decoration: none;
+}
+.menu-toggle{
+    height:75px;
+    font-weight: bold;
+    border: none;
+    margin-right:20px;
+    background-color:  rgb(41, 39, 39);
+    color: white;
+
+}
+header{
+    background-color: rgb(41, 39, 39);
+    height: 75px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 60px;
+}
+p{
+    text-align: center;
+    font-size: 23px;
+    color:rgb(59, 56, 56)
+}
+.button{
+   display: flex;
+   justify-content: center;
+   margin-top: 10px;
+}
+.get{
+    padding: 30px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border: none;
+    background-color: rgb(26, 26, 161);
+    color:white;
+    font-weight: 700px;
+    font-size: 18px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.hero{
+    margin-bottom: 100px;
+    background-color: rgb(238, 238, 244);
+    padding-bottom: 100px;
+}
+footer{
+    background-color: rgb(41,39,39);
+    height: 110px;
+}
+footer p{
+    color:white;
+    font-size: 20px;
+    padding-top: 10px;
+}
+.socials{
+    display: flex;
+    margin-top: 20px;
+    gap: 80px;
+    justify-content: center;
+}
+.socials a{
+    color:white;
+    text-decoration: none;
+    font-size: 16px;
+}
