@@ -15,6 +15,6 @@ To view this project:
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/anvithareddy-06/git-tutorial.git
 
 Open index.html in your browser, or use a live server extension for auto reload.
