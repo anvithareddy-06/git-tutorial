@@ -11,8 +11,6 @@ Hero section with heading, paragraph, and call-to-action button
 
 Styled footer with social media links
 
-Mobile navigation that collapses on smaller screens
-
 To view this project:
 
 Clone the repository:
